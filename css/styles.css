@@ -73,3 +73,6 @@ main > .tagline {
 	width: 2.65rem;
 	height: 2.65rem;
 }
+.hover-link:hover{
+	color: #4078c0;
+}
